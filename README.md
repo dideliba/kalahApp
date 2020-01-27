@@ -149,7 +149,7 @@ For logging purposes a custom AOP aspect has been implemented to log the start a
 
 Bellow is a UML representation of the state related classes:
 
-![](C:\Users\didel\OneDrive\Υπολογιστής\backbase_deliverable\UML\model\kalah.umlcd.png)
+![kalah model](https://user-images.githubusercontent.com/60351395/73185472-cb15fd00-4126-11ea-89b6-fb24fb023f66.png)
 
 In addition the Game has been separated in three layers. The **DAO layer** which is an interface that abstracts access to the underlying persistence technology
 
@@ -163,7 +163,7 @@ Finally the **Web layer** uses  methods provided by the Service layer's interfac
 
 Bellow is a UML representation of the class diagram:
 
-![](C:\Users\didel\OneDrive\Υπολογιστής\backbase_deliverable\UML\dataService\kalah.umlcd.png)
+![kalah services](https://user-images.githubusercontent.com/60351395/73185803-6b6c2180-4127-11ea-8de3-602a4710e0dc.png)
 
 
 
