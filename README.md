@@ -11,6 +11,7 @@ For successful  installation the minimum requirements are *Maven  v3.3+* and *Ja
 In the project root directory  **kalahApp** execute
 
 ```bash
+mvn dockerfile:build
 mvn clean install
 ```
 
